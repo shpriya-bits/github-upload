@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T11:51:58.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="4yXIep42bEfZxaQAPnoC" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-23T12:01:55.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="YuX7P07pDCY8I52ML70X" version="13.7.4" type="github">
   <diagram id="sz4E4a3TSyQB3lBFPKuL" name="Page-1">
-    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,9 +40,6 @@
         <mxCell id="X4TxDN0jf-o_3RNj11uW-13" value="Receipt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E0F2FF;shadow=1;gradientColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="348" y="320" width="101" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="X4TxDN0jf-o_3RNj11uW-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="X4TxDN0jf-o_3RNj11uW-14" target="X4TxDN0jf-o_3RNj11uW-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="X4TxDN0jf-o_3RNj11uW-14" value="Marketing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BDE4FF;gradientColor=#CCFFFF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="221" width="120" height="60" as="geometry" />
         </mxCell>
@@ -65,9 +62,6 @@
             <mxPoint x="400" y="50" as="sourcePoint" />
             <mxPoint x="600" y="220" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="X4TxDN0jf-o_3RNj11uW-23" value="Advertising" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E0F2FF;shadow=1;gradientColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="519.5" y="320" width="101" height="41" as="geometry" />
         </mxCell>
         <mxCell id="X4TxDN0jf-o_3RNj11uW-24" value="Document Upload" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BDE4FF;gradientColor=#CCFFFF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="221" width="120" height="60" as="geometry" />
@@ -123,9 +117,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ilVTUKKNi47XiXS1oqKn-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.574;entryY=1.068;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X4TxDN0jf-o_3RNj11uW-40" target="X4TxDN0jf-o_3RNj11uW-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ilVTUKKNi47XiXS1oqKn-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X4TxDN0jf-o_3RNj11uW-40" target="X4TxDN0jf-o_3RNj11uW-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X4TxDN0jf-o_3RNj11uW-40" value="Accounting System" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
