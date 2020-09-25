@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T06:35:21.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="9GWjEBuKXNPb2armCXSd" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T06:37:05.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="W1TfJW47AJD2p80xsNs9" version="13.7.5" type="github">
   <diagram id="cPPuk2STMzkrAS2KCKt9" name="Page-1">
-    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,6 +68,14 @@
         <mxCell id="ahGDCeKN8Fh46faBmXRb-17" value="Marketing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="298" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ahGDCeKN8Fh46faBmXRb-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahGDCeKN8Fh46faBmXRb-18" target="ahGDCeKN8Fh46faBmXRb-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="370" />
+              <mxPoint x="350" y="648" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ahGDCeKN8Fh46faBmXRb-18" value="Document Upload" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="110" height="40" as="geometry" />
         </mxCell>
@@ -113,6 +121,9 @@
         </mxCell>
         <mxCell id="ahGDCeKN8Fh46faBmXRb-43" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="645" y="630" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ahGDCeKN8Fh46faBmXRb-48" value="File Storage (NAS)" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.file_server;" vertex="1" parent="1">
+          <mxGeometry x="269" y="620" width="45" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
