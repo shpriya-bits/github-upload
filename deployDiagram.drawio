@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-26T11:34:39.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="9uzB1go3XyroQdCURWax" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-26T11:43:40.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="MQZcM9cxW7biBrQWYfy_" version="13.7.5" type="github">
   <diagram id="2KMXuAgvX8xEGEAA6Z5m" name="Page-1">
-    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,9 +89,6 @@
         </mxCell>
         <mxCell id="Hkijxu48sjIsFYu6_-Ox-10" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="250" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Hkijxu48sjIsFYu6_-Ox-11" value="RAID is installed for backup and availability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="500" width="265" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
