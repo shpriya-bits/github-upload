@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-09-26T11:31:04.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="GFQ2asW4CSJqqkEH0_Ne" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-26T11:32:01.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="T6XeDElkMuZ1_iv7hF_y" version="13.7.5" type="github">
   <diagram id="2KMXuAgvX8xEGEAA6Z5m" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Hkijxu48sjIsFYu6_-Ox-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="250" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="OFsbW1zccJxdHgrxnNsy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="OFsbW1zccJxdHgrxnNsy-2" target="OFsbW1zccJxdHgrxnNsy-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -77,6 +80,12 @@
         </mxCell>
         <mxCell id="Hkijxu48sjIsFYu6_-Ox-4" value="External applications" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="70" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hkijxu48sjIsFYu6_-Ox-5" value="PIS - Patent Information System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="553" y="114" width="217" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Hkijxu48sjIsFYu6_-Ox-7" value="Legends" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="30" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
