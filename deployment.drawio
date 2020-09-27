@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-26T12:24:00.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="E2XnlO6ldUI-TkkqtzhA" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-27T16:21:45.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="FiwfLRaINCprkA2ND1j5" version="13.7.5" type="github">
   <diagram id="cPPuk2STMzkrAS2KCKt9" name="Page-1">
     <mxGraphModel dx="1038" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="ahGDCeKN8Fh46faBmXRb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ahGDCeKN8Fh46faBmXRb-1" target="ahGDCeKN8Fh46faBmXRb-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ahGDCeKN8Fh46faBmXRb-1" value="Patent application via browser" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/flat-round-system/512/internet_explorer-128.png" parent="1" vertex="1">
+        <mxCell id="ahGDCeKN8Fh46faBmXRb-1" value="Investor request" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/flat-round-system/512/internet_explorer-128.png" parent="1" vertex="1">
           <mxGeometry x="720" y="20" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ahGDCeKN8Fh46faBmXRb-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ahGDCeKN8Fh46faBmXRb-4" edge="1">
@@ -124,6 +124,12 @@
         </mxCell>
         <mxCell id="ahGDCeKN8Fh46faBmXRb-48" value="File Storage (NAS)" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.file_server;" parent="1" vertex="1">
           <mxGeometry x="269" y="620" width="45" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="SmzRYnJa1E6_ftNBESkH-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="SmzRYnJa1E6_ftNBESkH-1" target="ahGDCeKN8Fh46faBmXRb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SmzRYnJa1E6_ftNBESkH-1" value="Patent application via browser" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/flat-round-system/512/internet_explorer-128.png" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
