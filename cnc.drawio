@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-27T16:16:14.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="SKkTNifPQ1OX9hHYQ1Lf" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-27T16:17:16.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="yGHUt6UDl4rp_ewc4N81" version="13.7.5" type="github">
   <diagram id="1DcZlpppCnB5ftDYnrpj" name="Page-1">
     <mxGraphModel dx="1038" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
         <mxCell id="XbiJzn5RKj0ZCHMjvqpI-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="XbiJzn5RKj0ZCHMjvqpI-3" target="PFrNyJQ9u5XcXT-LjefT-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XbiJzn5RKj0ZCHMjvqpI-3" value="Data Entry Staff" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.user" vertex="1" parent="1">
+        <mxCell id="XbiJzn5RKj0ZCHMjvqpI-3" value="Staff / Manager" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.user" vertex="1" parent="1">
           <mxGeometry x="378" y="35" width="47" height="50" as="geometry" />
         </mxCell>
       </root>
